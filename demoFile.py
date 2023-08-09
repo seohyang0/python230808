@@ -21,6 +21,3 @@ for item in result :
     print(item, end="")
 
 f.close()
-
-
-
